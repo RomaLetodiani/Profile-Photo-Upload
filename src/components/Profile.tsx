@@ -1,7 +1,7 @@
 import { Modal, Button, Flex } from 'antd';
 import { useState } from 'react';
 import PhotoEdit from './PhotoEdit';
-import defaultPhoto from '../../assets/images/defaultProfile.png';
+import defaultPhoto from '../assets/images/defaultProfile.png';
 
 const Profile = () => {
   const [editMode, setEditMode] = useState<boolean>(false);
