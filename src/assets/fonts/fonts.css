@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Firago';
+  src: url('./firaGO_OTF_1001/Roman/FiraGO-Regular.otf') format('opentype'),
+    url('./firaGO_TTF_1001/Roman/FiraGO-Regular.ttf') format('truetype'),
+    url('./firaGO_WEB_1001/Roman/FiraGO-Regular.woff') format('woff');
+}
